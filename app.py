@@ -426,8 +426,8 @@ def style_bool(v: Any) -> str:
 # Streamlit app
 # -----------------------------
 
-st.set_page_config(page_title="GoldenPi Bond Dashboard", layout="wide")
-st.title("GoldenPi Bond Recommendation Dashboard")
+st.set_page_config(page_title="FINIDEAS Bond Dashboard", layout="wide")
+st.title("FINIDEAS Bond Recommendation Dashboard")
 st.caption("Upload your GoldenPi Excel file, set your inputs, and generate a ranked allocation plan.")
 
 with st.sidebar:
